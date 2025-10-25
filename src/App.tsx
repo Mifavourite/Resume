@@ -2,7 +2,7 @@ export default function App() {
   const resume = {
     name: "Dr. Lordsfavour Anukam",
     title: "AI in Medicine & Public Health Expert | Biomedical Scientist",
-    email: "lordsfavour@example.com",
+    email: "leefav3@gmail.com",
     phone: "+18696639793",
     summary:
       "Innovative healthcare AI strategist combining biomedical science, public health, and leadership to build digital solutions that transform patient care and global health systems.",
